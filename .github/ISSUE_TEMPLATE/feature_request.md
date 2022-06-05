@@ -1,6 +1,6 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
+name: UI Feature request
+about: Suggest an idea for the SWM GUI
 title: "[FEAT]"
 labels: enhancement
 assignees: ''
