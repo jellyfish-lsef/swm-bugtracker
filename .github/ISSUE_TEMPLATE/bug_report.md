@@ -1,11 +1,13 @@
 ---
-name: Bug report
-about: Create a report to help us improve
+name: UI Bug report
+about: Create a report to help us improve the GUI
 title: "[BUG]"
 labels: bug
 assignees: ''
 
 ---
+
+**This bug tracker is to report issues with the SWM GUI, NOT issues with injection. If you agree to this, please remove this line**
 
 **Describe the bug**
 A clear and concise description of what the bug is.
