@@ -1,6 +1,6 @@
 ---
 name: UI Bug report
-about: Create a report to help us improve the GUI
+about: Create a report to help us improve the GUI, **NOT** injection.
 title: "[BUG]"
 labels: bug
 assignees: ''
